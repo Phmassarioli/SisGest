@@ -1,0 +1,88 @@
+.center{
+ text-align: center;
+}
+
+.left{
+    text-align: left;
+   }
+
+
+   .fontgreen
+{
+
+    color: green;
+
+}
+
+.fontred
+{
+
+    color: red;
+
+}
+
+.demarq
+{
+
+    font-weight: bold
+
+}
+   .rigth{
+    text-align: right;
+   }
+
+.titulo{
+
+    border: 1px solid black;
+    text-align: center;
+   
+
+}
+
+.tabela{
+
+    border: 1px solid black;
+    
+   
+   
+
+}
+
+.space{
+
+    padding: 0% 0% 8% 0%;
+}
+
+.spacement{
+
+    padding: 0% 0% 0% 80%;
+}
+
+
+.spaceinline{
+
+    padding: 0% 0% 3% 0%;
+}
+
+.conteiner {
+
+    padding: 0% 0% 15% 0%;
+
+}
+
+.border {
+
+    border: 1px solid black;
+   
+
+}
+
+th{
+
+font-size: 150%;
+
+
+}
+
+
+
