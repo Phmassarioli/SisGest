@@ -5,7 +5,7 @@ SisGest é um sistema simples para controle  de despesas. Nele é possivel
 
 - Lancar Gastos do dia a dia
 -  Lancar Contas Pagas no Mês
--  Lancar Valores Guardados em Contas e Investi
+-  Lancar Valores Guardados em Contas e Investimentos
 -  Ter relatórios  detalhados com graficos  e arquivos em PDF
 
 ![Capturar1](https://user-images.githubusercontent.com/41460624/163723073-03c40f01-da61-4e60-a3fa-94dd598a8756.PNG)
