@@ -1,2 +1,3 @@
-Para rodar este sistema é necessario ter servidor apache configurado e gerenciador de banco de dados MySql.
-e criar uma base de dados chamada sisgest e importar o banco de dados que esta na pasta banco de dados.
+Para rodar este sistema é necessario ter servidor apache configurado, PHP 7.4 e  gerenciador de banco de dados MySql.
+Depois criar uma base de dados chamada sisgest e importar o banco de dados que esta na pasta banco de dados.
+Na Basta há dois Bancos de dados, um dele ja esta com varios valores lancados e o outro em branco.
